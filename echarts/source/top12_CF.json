@@ -1,0 +1,110 @@
+[
+  {
+    "index": 0,
+    "name_c": "克里斯蒂亚诺·罗纳尔多",
+    "name_f": "Cristiano Ronaldo",
+    "GA_per90": 1.1,
+    "SOT_per": 38.1,
+    "G_per_SOT": 0.27,
+    "SCA_per90": 4
+  },
+  {
+    "index": 1,
+    "name_c": "路易斯·苏亚雷斯",
+    "name_f": "Luis Suárez",
+    "GA_per90": 1.06,
+    "SOT_per": 47.4,
+    "G_per_SOT": 0.34,
+    "SCA_per90": 3.14
+  },
+  {
+    "index": 2,
+    "name_c": "罗伯特·莱万多夫斯基",
+    "name_f": "Robert Lewandowski",
+    "GA_per90": 1.03,
+    "SOT_per": 43.1,
+    "G_per_SOT": 0.4,
+    "SCA_per90": 3.41
+  },
+  {
+    "index": 3,
+    "name_c": "塞尔吉奥·阿奎罗",
+    "name_f": "Sergio Agüero",
+    "GA_per90": 0.9,
+    "SOT_per": 38.1,
+    "G_per_SOT": 0.36,
+    "SCA_per90": 3.39
+  },
+  {
+    "index": 4,
+    "name_c": "兹拉坦·伊布拉西莫维奇",
+    "name_f": "Zlatan Ibrahimović",
+    "GA_per90": 1.02,
+    "SOT_per": 38.3,
+    "G_per_SOT": 0.3,
+    "SCA_per90": 3.88
+  },
+  {
+    "index": 5,
+    "name_c": "卡里姆·本泽马",
+    "name_f": "Karim Benzema",
+    "GA_per90": 0.92,
+    "SOT_per": 42.6,
+    "G_per_SOT": 0.36,
+    "SCA_per90": 3.69
+  },
+  {
+    "index": 6,
+    "name_c": "埃丁森·卡瓦尼",
+    "name_f": "Edinson Cavani",
+    "GA_per90": 0.81,
+    "SOT_per": 44.2,
+    "G_per_SOT": 0.38,
+    "SCA_per90": 2.13
+  },
+  {
+    "index": 7,
+    "name_c": "罗梅卢·卢卡库",
+    "name_f": "Romelu Lukaku",
+    "GA_per90": 0.74,
+    "SOT_per": 47.2,
+    "G_per_SOT": 0.36,
+    "SCA_per90": 3.08
+  },
+  {
+    "index": 8,
+    "name_c": "埃丁·哲科",
+    "name_f": "Edin Džeko",
+    "GA_per90": 0.75,
+    "SOT_per": 39.7,
+    "G_per_SOT": 0.32,
+    "SCA_per90": 3.55
+  },
+  {
+    "index": 9,
+    "name_c": "哈里·凯恩",
+    "name_f": "Harry Kane",
+    "GA_per90": 0.82,
+    "SOT_per": 41.8,
+    "G_per_SOT": 0.35,
+    "SCA_per90": 3.33
+  },
+  {
+    "index": 10,
+    "name_c": "埃尔林·哈兰德",
+    "name_f": "Erling Haaland",
+    "GA_per90": 1.31,
+    "SOT_per": 51,
+    "G_per_SOT": 0.56,
+    "SCA_per90": 2.53
+  },
+  {
+    "index": 11,
+    "name_c": "奇罗·因莫比莱",
+    "name_f": "Ciro Immobile",
+    "GA_per90": 0.84,
+    "SOT_per": 42.7,
+    "G_per_SOT": 0.37,
+    "SCA_per90": 3.32
+  }
+]

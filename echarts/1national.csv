@@ -1,0 +1,31 @@
+Season,Age,Squad,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls1,Ast1,G+A,G-PK1,G+A-PK,xG,npxG,xAG,npxG+xAG,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches
+2004,18,pt Portugal,UEFA Euro,F,6,4,418,4.6,2,,2,0,0,1,0,0.43,,,0.43,,,,,,,,,,,Matches
+2006,21,pt Portugal,1. FIFA World Cup,4th,6,6,482,5.4,1,,0,1,1,1,0,0.19,,,0,,,,,,,,,,,Matches
+2006,20,pt Portugal,WCQ,,12,12,937,10.4,7,,7,0,0,1,0,0.67,,,0.67,,,,,,,,,,,Matches
+2008,22,pt Portugal,UEFA Euro,QF,3,3,270,3,1,,1,0,0,0,0,0.33,,,0.33,,,,,,,,,,,Matches
+2008,22,pt Portugal,Euro Qualifying,,13,13,"1,104",12.3,8,,8,0,0,2,0,0.65,,,0.65,,,,,,,,,,,Matches
+2010,25,pt Portugal,1. FIFA World Cup,R16,4,4,360,4,1,0,1,0,0,1,0,0.25,0,0.25,0.25,0.25,,,,,,,,,,Matches
+2010,24,pt Portugal,WCQ,,7,7,556,6.2,0,,0,0,0,0,0,0,,,0,,,,,,,,,,,Matches
+2012,26,pt Portugal,UEFA Euro,SF,5,5,480,5.3,3,0,3,0,0,1,0,0.56,0,0.56,0.56,0.56,,,,,,,,,,Matches
+2012,26,pt Portugal,Euro Qualifying,,8,8,720,8,7,,6,1,1,1,0,0.87,,,0.75,,,,,,,,,,,Matches
+2014,29,pt Portugal,1. FIFA World Cup,GR,3,3,270,3,1,1,1,0,0,0,0,0.33,0.33,0.67,0.33,0.67,,,,,,,,,,Matches
+2014,28,pt Portugal,WCQ,,10,10,899,10,8,2,8,0,0,5,0,0.8,0.2,1,0.8,1,,,,,,,,,,Matches
+2014,28,pt Portugal,Friendlies (M),,4,4,270,3,2,0,2,0,0,0,0,0.67,0,0.67,0.67,0.67,,,,,,,,,,Matches
+2015,29,pt Portugal,Friendlies (M),,1,1,66,0.7,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,Matches
+2016,30,pt Portugal,Euro Qualifying,,6,6,540,6,5,0,4,1,1,1,0,0.83,0,0.83,0.67,0.67,,,,,,,,,,Matches
+2016,30,pt Portugal,UEFA Euro,W,7,7,624,6.9,3,3,3,0,1,1,0,0.43,0.43,0.87,0.43,0.87,,,,,,,,,,Matches
+2016,30,pt Portugal,Friendlies (M),,3,3,194,2.2,3,0,3,0,1,0,0,1.39,0,1.39,1.39,1.39,,,,,,,,,,Matches
+2017,31,pt Portugal,Friendlies (M),,1,1,57,0.6,1,0,1,0,0,0,0,1.58,0,1.58,1.58,1.58,,,,,,,,,,Matches
+2017,31,pt Portugal,FIFA Confederations Cup,3rd,4,4,366,4.1,2,1,1,1,1,0,0,0.49,0.25,0.74,0.25,0.49,,,,,,,,,,Matches
+2018,33,pt Portugal,1. FIFA World Cup,R16,4,4,360,4,4,0,3,1,2,2,0,1,0,1,0.75,0.75,2.9,1.4,0.5,1.9,0.73,0.14,0.87,0.34,0.47,Matches
+2018,32,pt Portugal,WCQ,,9,8,765,8.5,15,3,13,2,3,1,0,1.76,0.35,2.12,1.53,1.88,,,,,,,,,,Matches
+2018,32,pt Portugal,Friendlies (M),,3,3,230,2.6,2,1,2,0,0,0,0,0.78,0.39,1.17,0.78,1.17,,,,,,,,,,Matches
+2018-2019,33,pt Portugal,UEFA Nations League,1st,2,2,180,2,3,0,3,0,0,0,0,1.5,0,1.5,1.5,1.5,,,,,,,,,,Matches
+2020,34,pt Portugal,Friendlies (M),,2,1,117,1.3,1,1,1,0,0,0,0,0.77,0.77,1.54,0.77,1.54,,,,,,,,,,Matches
+2020-2021,35,pt Portugal,UEFA Nations League,LgA,4,4,350,3.9,2,0,2,0,0,1,0,0.51,0,0.51,0.51,0.51,,,,,,,,,,Matches
+2021,35,pt Portugal,Friendlies (M),,3,3,205,2.3,2,0,2,0,0,0,0,0.88,0,0.88,0.88,0.88,,,,,,,,,,Matches
+2021,35,pt Portugal,UEFA Euro,R16,4,4,360,4,5,1,2,3,3,0,0,1.25,0.25,1.5,0.5,0.75,4.9,2.5,1.4,3.9,1.22,0.34,1.56,0.63,0.97,Matches
+2021,35,pt Portugal,UEFA Euro Qualifying,,8,8,640,7.1,11,0,8,3,3,0,0,1.55,0,1.55,1.13,1.13,,,,,,,,,,Matches
+2022,37,pt Portugal,1. World Cup,QF,5,3,290,3.2,1,0,0,1,1,0,0,0.31,0,0.31,0,0,1.6,0.8,0.1,1,0.51,0.04,0.55,0.26,0.3,Matches
+2022,36,pt Portugal,WCQ,,9,9,810,9,6,1,4,2,3,2,0,0.67,0.11,0.78,0.44,0.56,,,,,,,,,,Matches
+2022-2023,37,pt Portugal,UEFA Nations League,LgA,5,4,389,4.3,2,2,2,0,0,1,0,0.46,0.46,0.93,0.46,0.93,,,,,,,,,,Matches

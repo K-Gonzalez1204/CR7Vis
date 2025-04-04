@@ -1,0 +1,110 @@
+[
+  {
+    "index": 0,
+    "name_c": "克里斯蒂亚诺·罗纳尔多",
+    "name_f": "Cristiano Ronaldo",
+    "GA_per90": 1.1,
+    "SOT_per": 38.1,
+    "G_per_SOT": 0.27,
+    "SCA_per90": 4
+  },
+  {
+    "index": 1,
+    "name_c": "内马尔·达席尔瓦",
+    "name_f": "Neymar da Silva",
+    "GA_per90": 1.09,
+    "SOT_per": 43,
+    "G_per_SOT": 0.36,
+    "SCA_per90": 7.37
+  },
+  {
+    "index": 2,
+    "name_c": "利昂内尔·梅西",
+    "name_f": "Lionel Messi",
+    "GA_per90": 1.39,
+    "SOT_per": 44.8,
+    "G_per_SOT": 0.34,
+    "SCA_per90": 7.37
+  },
+  {
+    "index": 3,
+    "name_c": "基利安·姆巴佩",
+    "name_f": "Kylian Mbappé",
+    "GA_per90": 1.25,
+    "SOT_per": 50.2,
+    "G_per_SOT": 0.41,
+    "SCA_per90": 4.74
+  },
+  {
+    "index": 4,
+    "name_c": "穆罕默德·萨拉赫",
+    "name_f": "Mohamed Salah",
+    "GA_per90": 0.88,
+    "SOT_per": 41.8,
+    "G_per_SOT": 0.37,
+    "SCA_per90": 4.39
+  },
+  {
+    "index": 5,
+    "name_c": "安赫尔·迪马利亚",
+    "name_f": "Ángel Di María",
+    "GA_per90": 0.74,
+    "SOT_per": 35.4,
+    "G_per_SOT": 0.24,
+    "SCA_per90": 5.45
+  },
+  {
+    "index": 6,
+    "name_c": "加雷思·贝尔",
+    "name_f": "Gareth Bale",
+    "GA_per90": 0.65,
+    "SOT_per": 41.3,
+    "G_per_SOT": 0.31,
+    "SCA_per90": 3.22
+  },
+  {
+    "index": 7,
+    "name_c": "萨迪奥·马内",
+    "name_f": "Sadio Mane",
+    "GA_per90": 0.7,
+    "SOT_per": 41.6,
+    "G_per_SOT": 0.42,
+    "SCA_per90": 3.94
+  },
+  {
+    "index": 8,
+    "name_c": "拉希姆·斯特林",
+    "name_f": "Raheem Sterling",
+    "GA_per90": 0.61,
+    "SOT_per": 41.3,
+    "G_per_SOT": 0.39,
+    "SCA_per90": 4.26
+  },
+  {
+    "index": 9,
+    "name_c": "孙兴慜",
+    "name_f": "Son Heung Min",
+    "GA_per90": 0.65,
+    "SOT_per": 46.9,
+    "G_per_SOT": 0.37,
+    "SCA_per90": 3.89
+  },
+  {
+    "index": 10,
+    "name_c": "德里斯·梅尔滕斯",
+    "name_f": "Dries Mertens",
+    "GA_per90": 0.83,
+    "SOT_per": 39.2,
+    "G_per_SOT": 0.3,
+    "SCA_per90": 4.54
+  },
+  {
+    "index": 11,
+    "name_c": "勒鲁瓦·萨内",
+    "name_f": "Leroy Sane",
+    "GA_per90": 0.7,
+    "SOT_per": 37.7,
+    "G_per_SOT": 0.34,
+    "SCA_per90": 4.53
+  }
+]

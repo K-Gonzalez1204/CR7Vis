@@ -1,0 +1,203 @@
+index-name_chinese-name_foreigner-position-goal_club-assist_club-goal_national-assist_national
+000-克里斯蒂亚诺·罗纳尔多-Cristiano Ronaldo-C-701-223-118-43
+001-利昂内尔·梅西-Lionel Messi-C-701-333-96-55
+002-基利安·姆巴佩-Kylian Mbappé-C-222-111-33-23
+003-埃尔林·哈兰德-Erling Haaland-C-158-39-21-3
+004-劳尔·冈萨雷斯·布兰科-Raúl González Blanco-C-383-138-44-10
+005-路易斯·菲戈-Luís Figo-C-113-179-32-34
+006-罗纳尔多-Ronaldo-C-295-75-62-17
+007-罗纳尔迪尼奥-Ronaldinho Gaúcho-C-197-162-33-24
+008-德科-Deco-M-75-159-5-19
+009-哈维·埃尔南德斯-Xavier Hernández-M-111-213-12-25
+010-安德雷斯·伊涅斯塔-Andres Iniesta-M-88-163-14-30
+011-萨穆埃尔·埃托奥-Samuel Eto'o-C-362-117-56-7
+012-佩德罗-Pedro Eliezer Rodríguez Ledesma-C-172-105-17-12
+013-内马尔·达席尔瓦-Neymar da Silva-C-290-183-77-56
+014-路易斯·苏亚雷斯-Luis Suárez-C-445-243-68-39
+015-鲁多维奇·久利-Ludovic Giuly-C-155-53-3-3
+016-大卫·比利亚-David Villa-C-338-82-59-12
+017-鲁德·范尼斯特鲁伊-Ruud van Nistelrooy-C-327-71-35-1
+018-罗比尼奥-Robinho-C-268-58-29-22
+019-儒尼尼奥-Juninho Pernambucano-M-118-106-6-4
+020-罗伯托·卡洛斯-Roberto Carlos-D-97-125-11-14
+021-塞尔吉奥·拉莫斯-Sergio Ramos-D-107-41-23-8
+022-胡安·罗曼·里克尔梅-Juan Román Riquelme-M-110-80-17-20
+023-加雷思·贝尔-Gareth Bale-C-186-139-40-22
+024-卡里姆·本泽马-Karim Benzema-C-395-187-37-20
+025-安赫尔·迪马利亚-Ángel Di María-C-155-248-27-26
+026-冈萨洛·伊瓜因-Gonzalo Higuaín-C-335-113-31-14
+027-阿尔瓦罗·莫拉塔-Álvaro Morata-C-185-75-30-7
+028-卢卡·莫德里奇-Luka Modrić-M-75-121-23-25
+029-托尼·克罗斯-Toni Kroos-M-71-154-17-19
+030-马尔科·阿森西奥-Marco Asensio-C-63-51-2-13
+031-伊斯科-Francisco Román Alarcón Suarez-M-74-69-12-6
+032-奥斯曼·登贝莱-Ousmane Dembélé-C-59-68-4-3
+033-伊万·拉基蒂奇-Ivan Rakitić-M-118-126-15-16
+034-菲利佩·库蒂尼奥-Philippe Coutinho-M-106-78-21-11
+035-阿尔达·图兰-Arda Turan-M-90-127-16-25
+036-达尼·阿尔维斯-Dani Alves-D-60-176-8-21
+037-哈梅斯·罗德里格斯-James Rodríguez-M-117-142-25-25
+038-阿图罗·比达尔-Arturo Vidal-M-111-81-33-9
+039-费尔南多·托雷斯-Fernando Torres-C-262-76-38-10
+040-安托万·格列兹曼-Antoine Griezmann-M-234-97-42-36
+041-若昂·费利克斯-João Félix-C-67-35-4-3
+042-迭戈·科斯塔-Diego Costa-C-187-71-10-4
+043-科克-Jorge Resurrección Merodio-M-54-110-0-8
+044-迭戈·西蒙尼-Diego Simeone-M-82-27-10-7
+045-罗梅达尔·法尔考-Radamel Falcao García Zárate-C-303-54-33-4
+046-迭戈·弗兰-Diego Forlan-C-224-75-35-13
+047-费尔南多·略伦特-Fernando Llorente-C-180-60-7-1
+048-西芒·萨布罗萨-Simão Pedro Fonseca Sabrosa-C-145-112-22-12
+049-路易斯·法比亚诺-Luis Fabiano-C-199-45-28-3
+050-罗伯托·索尔达多-Roberto Soldado-C-214-73-7-0
+051-马塞洛-Marcelo Vieira da Silva Júnior-D-43-103-6-12
+052-丹尼尔·卡瓦哈尔-Daniel Carvajal-D-11-74-0-4
+053-拉斐尔·范德法特-Rafael Ferdinand van der Vaart-M-173-120-25-29
+054-古蒂-José María Gutiérrez Hernández-M-89-107-3-0
+055-阿尔瓦罗·内格雷多-Álvaro Negredo-C-252-85-10-3
+056-朱塞佩·罗西-Giuseppe Rossi-C-132-41-7-2
+057-胡安·马塔-Juan Mata-M-139-159-11-8
+058-亚历桑德罗·德尔·皮耶罗-Alessandro del Piero-C-316-184-27-12
+059-帕维尔·内德维德-Pavel Nedvěd-M-135-114-18-5
+060-齐内丁·齐达内-Zinedine Zidane-M-125-138-31-30
+061-安德烈亚·皮尔洛-Andrea Pirlo-M-73-127-13-25
+062-克劳迪奥·马尔基西奥-Claudio Marchisio-M-39-43-5-4
+063-达维德·特雷泽盖-David Trézéguet-C-273-44-34-7
+064-罗伯托·巴乔-Roberto Baggio-C-277-154-27-13
+065-卡洛斯·特维斯-Carlos Tévez-C-255-108-13-13
+066-保罗·博格巴-Paul Pogba-M-76-98-11-9
+067-马里奥·曼祖基奇-Mario Mandzukic-C-197-85-33-11
+068-兹拉坦·伊布拉西莫维奇-Zlatan Ibrahimović-C-492-202-62-25
+069-米尔科·武契尼奇-Mirko Vučinić-C-155-70-17-5
+070-保罗·迪巴拉-Paulo Dybala-C-152-66-3-6
+071-弗朗切斯科·托蒂-Francesco Totti-C-307-206-9-25
+072-米洛斯拉夫·克洛泽-Miroslav Klose-C-258-134-71-30
+073-安德烈·舍甫琴科-Andriy Shevchenko-C-326-74-48-9
+074-菲利波·因扎吉-Filippo Inzaghi-C-288-55-25-4
+075-卡卡-Kaká-M-161-146-29-22
+076-凯文·普林斯·博阿滕-Kevin Prince Boateng-C-76-56-2-0
+077-克拉伦斯·西多夫-Clarence Seedorf-M-128-127-11-7
+078-亚历山大·帕托-Alexandre pato-C-164-53-10-2
+079-保罗·马尔蒂尼-Paolo Maldini-D-33-44-7-5
+080-杰雷米·梅内-Jeremy Menez-C-98-91-2-1
+081-奥利维耶·吉鲁-Olivier Giroud-C-246-90-53-14
+082-哈坎·恰尔汗奥卢-Hakan Çalhanoğlu-M-105-119-17-15
+083-迭戈·米利托-Diego Milito-C-219-53-4-2
+084-阿德里亚诺·莱特·里贝罗-Adriano Leite Ribeiro-C-137-41-27-2
+085-韦斯利·斯内德-Wesley Sneijder-M-152-145-31-32
+086-里卡多·夸雷斯马-Ricardo Quaresma-C-109-164-10-25
+087-戈兰·潘德夫-Goran Pandev-C-139-80-38-18
+088-毛罗·伊卡尔迪-Mauro Icardi-C-207-46-1-1
+089-克里斯蒂安·维埃里-Christian Vieri-C-236-38-23-4
+090-安东尼奥·坎德雷瓦-Antonio Candreva-M-91-112-7-13
+091-卡福-Cafu-D-16-58-5-10
+092-埃丁森·卡瓦尼-Edinson Cavani-C-364-73-58-17
+093-埃塞基耶尔·拉韦齐-Ezequiel Lavezzi-C-135-113-9-12
+094-洛伦佐·因西涅-Lorenzo Insigne-C-187-114-10-10
+095-德里斯·梅尔滕斯-Dries Mertens-C-248-181-21-32
+096-马雷克·哈姆西克-Marek Hamsik-M-143-111-26-20
+097-劳塔罗·马丁内斯-Lautaro Martínez-C-109-36-21-7
+098-罗梅卢·卢卡库-Romelu Lukaku-C-276-88-68-15
+099-伊万·佩里西奇-Ivan Perišić-C-139-115-33-28
+100-阿莱克西斯·桑切斯-Alexis Sanchez-C-187-141-50-41
+101-安东尼奥·迪纳塔莱-Antonio Di Natale-C-302-71-11-5
+102-埃尔南·克雷斯波-Hernán Crespo-C-248-46-35-6
+103-埃丁·哲科-Edin Džeko-C-318-145-64-26
+104-奇罗·因莫比莱-Ciro Immobile-C-311-72-15-8
+105-亨里克·姆希塔良-Henrikh Mkhitaryan-M-174-136-32-25
+106-何塞·卡列洪-José Callejón-C-141-109-0-0
+107-米拉勒姆·皮亚尼奇-Miralem Pjanic-M-75-115-17-29
+108-多梅尼科·贝拉尔迪-Domenico Berardi-C-129-85-6-2
+109-阿列杭德罗·戈麦斯-Papu Gómez-M-114-114-3-4
+110-卢卡·托尼-Luca Toni-C-301-74-16-3
+111-阿尔扬·罗本-Arjen Robben-C-209-165-37-34
+112-弗兰克·里贝里-Franck Ribéry-C-151-224-16-25
+113-托马斯·穆勒-Thomas Müller-C-272-254-44-40
+114-罗伯特·莱万多夫斯基-Robert Lewandowski-C-527-139-78-30
+115-巴斯蒂安·施魏因施泰格-Bastian Schweinsteiger-M-80-113-24-37
+116-蒂亚戈·阿尔坎塔拉-Thiago Alcántara-M-48-62-2-9
+117-哈桑·萨利哈米季奇-Hasan Salihamidzic-M-86-74-6-7
+118-马里奥·戈麦斯-Mario Gomez-C-319-72-31-11
+119-克拉斯·扬·亨特拉尔-Klaas Jan Huntelaar-C-366-89-42-12
+120-卢卡斯·波多尔斯基-Lukas Podolski-M-223-128-49-31
+121-帕科·阿尔卡塞尔-Paco Alcácer-C-130-44-12-2
+122-马里奥·格策-Mario Götze-C-125-120-17-11
+123-皮埃尔·埃梅里克·奥巴梅扬-Pierre Emerick Aubameyang-C-315-93-29-10
+124-马尔科·罗伊斯-Marco Reus-C-225-150-15-14
+125-克劳迪奥·皮萨罗-Claudio Pizarro-C-281-111-17-5
+126-斯特凡·基斯林-Stefan Kiessling-C-192-83-0-1
+127-香川真司-Kagawa Shinji-C-133-93-31-20
+128-亚里·利特马宁-Jari Litmanen-M-201-63-32-6
+129-蒂莫·维尔纳-Timo Werner-C-199-88-24-6
+130-哈维尔·埃尔南德斯-Javier Hernández-C-205-57-52-13
+131-拉尔斯·施廷德尔-Lars Stindl-M-135-102-4-1
+132-哈维尔·萨维奥拉-Javier Saviola-C-184-82-11-5
+133-杰登·桑乔-Jadon Sancho-C-82-79-3-7
+134-塞巴斯蒂安·阿莱-Sébastien Haller-C-153-57-4-1
+135-塞尔日·格纳布里-Serge Gnabry-C-115-71-21-9
+136-约书亚·基米希-Joshua Kimmich-M-48-105-5-19
+137-泽·罗伯托-Ze Roberto-M-69-149-6-8
+138-吉奥瓦尼·埃尔伯-Giovane Elber-C-260-84-7-0
+139-哈里·凯恩-Harry Kane-C-288-78-53-17
+140-孙兴慜-Son Heung Min-C-201-90-35-18
+141-大卫·贝克汉姆-David Beckham-M-127-214-17-42
+142-保罗·斯科尔斯-Paul Scholes-M-153-75-14-13
+143-瑞恩·吉格斯-Ryan Giggs-C-164-253-12-7
+144-韦恩·鲁尼-Wayne Rooney-C-313-170-53-21
+145-鲁德·范尼斯特鲁伊-Ruud van Nistelrooy-C-327-71-35-1
+146-阿什利·扬-Ashley Young-M-84-122-7-10
+147-马库斯·拉什福德-Marcus Rashford-C-106-60-15-5
+148-纳尼-Nani-C-123-143-24-23
+149-安迪·科尔-Andy Cole-C-261-88-1-2
+150-丹尼斯·博格坎普-Dennis Bergkamp-C-263-122-37-19
+151-安德烈·阿尔沙文-Andrey Arshavin-C-139-186-17-20
+152-蒂埃里·亨利-Thierry Henry-C-360-177-51-30
+153-托马斯·罗西基-Tomás Rosicky-M-65-81-23-10
+154-罗贝尔·皮雷斯-Robert Pirès-M-167-106-14-18
+155-弗雷德里克·永贝里-Fredrik Ljungberg-M-79-55-14-7
+156-罗宾·范·佩西-Robin van Persie-C-274-102-50-20
+157-亚历山大·拉卡泽特-Alexandre Lacazette-C-209-82-3-1
+158-西奥·沃尔科特-Theo Walcott-C-130-93-8-8
+159-杰杰·奥科查-Jay Jay Okocha-M-101-57-12-2
+160-威廉-Willian Borges da Silva-C-106-147-9-15
+161-克里斯蒂安·埃里克森-Christian Eriksen-M-116-168-39-26
+162-迪迪埃·德罗巴-Didier Drogba-C-302-125-62-11
+163-弗兰克·兰帕德-Frank Lampard-M-268-171-29-12
+164-埃登·阿扎尔-Eden Hazard-C-167-156-33-36
+165-尼古拉·阿内尔卡-Nicolas Anelka-C-209-94-14-14
+166-迪米塔·贝尔巴托夫-Dimitar Berbatov-C-251-107-48-5
+167-萨洛蒙·卡卢-Salomon Kalou-C-189-92-23-6
+168-史蒂文·杰拉德-Steven Gerrard-M-191-168-21-23
+169-哈维·阿隆索-Xabi Alonso-M-43-69-16-9
+170-迈克尔·詹姆斯·欧文-Michael James Owen-C-223-56-40-12
+171-穆罕默德·萨拉赫-Mohamed Salah-C-247-121-47-26
+172-萨迪奥·马内-Sadio Mane-C-203-99-33-20
+173-罗伯托·菲尔米诺-Roberto Firmino-C-164-114-17-7
+174-彼得·克劳奇-Peter Crouch-C-199-81-22-4
+175-德克·库伊特-Dirk Kuyt-C-285-152-24-20
+176-塞尔吉奥·阿奎罗-Sergio Agüero-C-381-118-41-19
+177-拉希姆·斯特林-Raheem Sterling-C-167-132-20-27
+178-凯文·德布劳内-Kevin De Bruyne-M-136-218-25-46
+179-大卫·席尔瓦-David Silva-M-119-186-35-32
+180-布鲁诺·费尔南德斯-Bruno Fernandes-M-141-110-13-11
+181-贝尔纳多·席尔瓦-Bernardo Silva-M-85-82-8-24
+182-若昂·坎塞洛-João Cancelo-D-17-58-7-6
+183-塞斯克·法布雷加斯-Cesc Fàbregas-M-125-216-15-36
+184-詹姆斯·米尔纳-James Milner-M-85-136-1-6
+185-勒鲁瓦·萨内-Leroy Sane-C-106-107-11-6
+186-迪米特里·佩耶-Dimitri Payet-C-139-184-8-9
+187-杜桑·塔迪奇-Dusan Tadic-C-192-221-20-36
+188-本·阿尔法-Ben Arfa-M-75-64-2-1
+189-安东尼·莫德斯特-Anthony Modeste-C-178-38-5-0
+190-马里奥·巴洛特利-Mario Balotelli-C-198-43-14-5
+191-维萨姆·本·耶德尔-Wissam Ben Yedder-C-224-71-3-4
+192-若昂·穆蒂尼奥-João Moutinho-M-53-121-7-26
+193-安德雷·吉尼亚克-Andre Gignac-C-308-73-7-4
+194-米夏埃尔·巴拉克-Michael Ballack-M-151-94-42-19
+195-加夫列尔·巴蒂斯图塔-Gabriel Batistuta-C-245-26-55-9
+196-阿兰·希勒-Alan Shearer-C-356-90-30-11
+197-罗比·基恩-Robbie Keane-C-321-87-68-6
+198-鲁伊·科斯塔-Rui Costa-M-74-102-26-15
+199-菲利普·拉姆-Philipp Lahm-D-22-77-5-17
+200-武磊-Wu Lei-C-147-73-27-8
+0-数据来源：https://www.transfermarkt.com/
